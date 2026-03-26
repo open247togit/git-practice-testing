@@ -1,6 +1,6 @@
 console.log("Hello, java script")
 console.log("I am learning git and github")
-# This is a command .
+//  This is a sum function .
 let a = 60;
 let b = 40;
 
