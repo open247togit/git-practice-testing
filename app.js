@@ -1,5 +1,6 @@
 console.log("Hello, java script")
 console.log("I am learning git and github")
+# This is a command .
 let a = 60;
 let b = 40;
 
