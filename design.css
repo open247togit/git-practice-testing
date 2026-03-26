@@ -7,5 +7,6 @@ h1 {
 }
 p {
     text-align: center;
-    
+    color: #fd440cc3;
+    background-color: rgb(39, 245, 176);
 }
